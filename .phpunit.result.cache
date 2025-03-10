@@ -1,0 +1,1 @@
+{"version":1,"defects":{"AuthTest::testGenerateJWT":8,"AuthTest::testVerifyToken":8},"times":{"AuthTest::testGenerateJWT":0.013,"AuthTest::testVerifyToken":0.001}}
